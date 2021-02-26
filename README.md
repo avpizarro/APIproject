@@ -18,7 +18,7 @@ Reboot Melbourne is a website for users to rediscover their local community.
 https://github.com/h-mai/APIproject
 
 ### URL
-https://h-mai.github.io/APIproject/index.html
+https://avpizarro.github.io/melbourneReboot/
 
 ### Contributers
 * Alejandra Valdes Pizarro https://github.com/avpizarro
