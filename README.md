@@ -15,7 +15,7 @@ Reboot Melbourne is a website for users to rediscover their local community.
 * Materialize CSS library
 
 ### Github Repository
-https://github.com/h-mai/APIproject
+https://github.com/avpizarro/melbourneReboot.git
 
 ### URL
 https://avpizarro.github.io/melbourneReboot/
